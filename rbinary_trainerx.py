@@ -87,3 +87,4 @@ sca_bit1.grid(row = 1, column = 6)
 sca_bit0 = tk.Scale(root, orient = "vertical", from_ = 1, to = 0, showvalue = show_binary, command = calc)
 sca_bit0.grid(row = 1, column = 7)
 
+root.mainloop()
