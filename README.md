@@ -1,4 +1,4 @@
-# rBinary Trainer[X]
+# rx-binary_trainer
 
 This is a python3/tk written software aiming electronics students on helping understand intuitively how binary numeric system works.
 

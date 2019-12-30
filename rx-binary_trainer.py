@@ -16,13 +16,13 @@ def quit():
     root.destroy()
 
 def sobre():
-    mb.showinfo("r[Binary Trainer]X",'''
+    mb.showinfo("rx-binary_trainer",'''
 
-    r[Binary Trainer]X
+    rx-binary_trainer
 
     Helps you learn binary representation intuitively.
 
-    Version: 0.1
+    Version: 0.2
 
     Author : Rahul M. Juliato
              rahuljuliato.com
@@ -47,7 +47,7 @@ def calc(value):
 
 # Window drawning
 root = tk.Tk()
-root.wm_title('Binary Trainer v0.1')
+root.wm_title('rx-binary_trainer v0.2')
 root.wm_minsize(400,220)
 root.grid_anchor(anchor='c')
 
